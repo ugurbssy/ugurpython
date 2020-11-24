@@ -1,0 +1,202 @@
+The phenomenon that some consumers pay a higher interest rate when they borrow than the interest rate they receive when they lend is best described as an example of
+-irrational behaviour.
++a credit market imperfection.
+-a vast banking conspiracy.
+-the burden of public debt.
+-predatory lending practices.
+If consumers face higher interest rates when their savings is positive than when their savings is negative,
+-Ricardian equivalence holds.
+-there is no asymmetric information.
++the government may be able to increase welfare by cutting taxes.
+-the size of the government should be reduced.
+-the economy can do without collateral.
+Asymmetric information means
++some market participants have more information than others.
+-some news are more important than others.
+-some market participants interpret news differently.
+-the impact of news on economic outcomes depends on the context.
+-consumers do not understand completely their own preferences.
+Asymmetric information in the credit market means that
++the bank cannot distinguish bad borrowers from good borrowers.
+-the bank cannot prevent consumers from defaulting on their loans.
+-the default rate on loans is excessively high.
+-borrowers can borrow from financial institutions other than banks.
+-consumers can only borrow from banks.
+If there are fewer bad borrowers in the population when there is asymmetric information
++the interest rate spread declines.
+-the interest rate spread increases.
+-the value of collateral increases.
+-banks make positive profits.
+-good borrowers are worse off.
+An interest rate spread is
+-the difference between long-term and short-term interest rates.
+-the difference between nominal and real interest rates.
++the difference between lending and borrowing interest rates.
+-the difference between public and commercial interest rates.
+-the difference between the interest rates on different stocks.
+A default premium is the interest rate premium
+-under normal market circumstances.
+-when there are no market fluctuations.
++covering the default risk.
+-for government debt.
+-a borrower receives after defaulting.
+If the value of collateral falls for a consumer,
+-current consumption must fall.
+-current consumption must rise.
+-future consumption must fall.
++current consumption falls only if the collateral constraint binds.
+-current consumption falls only if the collateral constraint does not bind.
+A collateral constraint captures the idea that
+-there is asymmetric information in credit markets.
+-assets may be of no use.
++consumers need incentives not to abscond on their debts.
+-Ricardian equivalence always holds.
+-the budget constraint is irrelevant.
+Limited commitment means
++one cannot credibly promise something.
+-one saves only part of what is optimal.
+-only some households are allowed to save.
+-there is rationing on the credit market.
+-only governments can borrow.
+Collateralizable wealth is
+-wealth in non-tangible assets.
++any asset that can be used to obtain a loan.
+-wealth that increases and income increases.
+-wealth based on mortgage lending.
+-any increase in wealth from lending.
+In a simple model of credit imperfections, when consumers borrow and lend at different interest rates, the budget line is kinked because
+-the consumer cannot consumer more than disposable income in any period.
+-taxes exceed income.
+-the consumer lends at a higher rate than they borrow.
++the consumer lends at a lower rate than they borrow.
+-income exceeds taxes.
+When consumers lend at a lower rate than they borrow, a decrease in current taxes implies
++current consumption increases by the amount of the tax cut.
+-current consumption remains unchanged.
+-both current and future consumption increase.
+-current savings increases by the amount of the tax cut.
+-current consumption decreases and future consumption increases.
+When there are credit-market imperfections, an increase in government debt may be advantageous because it
+-discourages credit-constrained consumers from borrowing too much.
++allows credit-constrained consumers to borrow more.
+-eliminates the problems that cause credit-market imperfections.
+-encourages more private saving.
+In the two-period model, a bank
+-creates money.
+-keeps money safely.
+-multiplies reserves.
++borrows and lends.
+-is generally unnecessary.
+In the two-period model, the nature of the asymmetric information is that
+-only the bank knows who the bad borrowers are.
++only borrowers know whether they are bad or not.
+-only borrowers know the value of their collateral.
+-only banks can value the collateral.
+-only consumers know their income when it is received.
+The default premium increases when there is a(n)
++decrease in the fraction of good borrowers.
+-increase in the fraction of good borrowers.
+-increase in the bank profits.
+-decrease in risk.
+-increase in liquidity.
+If the proportion of bad borrowers increases,
+-the lending interest rate increases.
+-the lending interest rate decreases.
++the borrowing interest rate increases.
+-the borrowing interest rate decreases.
+-the borrowing and lending interest rates are equal.
+The 1990-1992 recession was unlikely to be associated with financial factors since
++there was little change in interest rates.
+-consumption did not drop.
+-interest spreads increased right from the start.
+-interest rates for lending and borrowing went up.
+-profits in the banking sector increased.
+If consumers use their house as collateral for lending and the value of housing in general falls, then
+-lending is unchanged and future consumption increases.
+-borrowing increases further to maintain current consumption.
++lending and aggregate consumption decrease.
+-lenders prefer to become borrowers.
+-lending and aggregate consumption increase.
+If the collateral constraint does not bind, then in response to a decrease in the price, p, of the asset
+-the consumer increases both current and future consumption.
+-the consumer decreases current consumption and future consumption is unchanged.
+-the consumer leaves current consumption unchanged and increases future consumption.
+-the consumer increases current consumption and decreases future consumption.
++the consumer decreases both current and future consumption.
+For a consumer not bound by the collateral constraint, a reduction in the price of the collateral leads to
+-nothing.
+-an increase in current consumption and a decrease in future consumption.
+-a decrease in current consumption and no change in future consumption.
++a decrease in current and future consumption.
+-no change in current consumption and a decrease in future consumption.
+For a consumer bound by the collateral constraint, a reduction in the price of the collateral leads to
+-nothing.
+-an increase in current consumption and a decrease in future consumption.
++a decrease in current consumption and no change in future consumption.
+-a decrease in current and future consumption.
+-an increase in current and future consumption.
+In a pay-as-you-go system,
++the young transfer resources to the old.
+-there is no opportunity for saving.
+-young households pay for their retirement directly.
+-the government pays for retirement.
+-the old receive income from assets purchased when they were young.
+In a fully-funded social security program
+-the young pay for the benefits of the old.
++the young are forced to save for their own retirement.
+-the young have to buy bonds for the old.
+-the young are forced to save for the retirement of the old.
+Why do consumers benefit from pay-as-you-go social security?
+-It keeps inflation in check as money is redistributed.
+-It is a better way than taxes to finance the government.
+-It forces people to save more than they would otherwise.
++With sufficiently high population growth, many young contribute to the benefits of the old.
+-With sufficiently low population growth, the young can perpetually contribute more.
+In a pay-as-you-go social security system, everyone can be made better off only if
++the population growth rate exceeds the real interest rate.
+-the real interest rate remains higher than the population growth rate.
+-the number of old households exceeds the number of young households.
+-the interest rate for borrowers is sufficiently below that of lenders.
+-it is preceded by a fully funded system.
+Consumer choice theory predicts that, with identical consumers, pay-as-you-go social security
+-always makes all generations worse off.
+-makes some generations better off, and cannot make any generation worse off.
+-may make some generations worse off and cannot make any generation better off.
++may be Pareto improving.
+-always makes all generations worse off compared to a fully-funded system.
+Consumer choice theory predicts that, with identical consumers, fully-funded social security
+-always makes all generations worse off.
+-makes some generations better off, and cannot make any generation worse off.
++may make some generations worse off and cannot make any generation better off.
+-may be Pareto improving.
+-can potentially reduce welfare.
+The commitment problem that may make a forced savings social security program beneficial is best described by
+-too much saving by households because the government cannot commit to providing zero retirement assistance.
+-borrowers are unable to commit to a high real interest rate.
+-young households cannot commit to participating when they are old.
+-the government cannot commit to providing benefits when old.
++under saving by households because the government cannot commit to providing zero retirement assistance.
+Social security is most likely to present political problems when
++moving from pay-as-you-go to fully-funded and when population growth is low.
+-moving from pay-as-you-go to fully-funded and when population growth is high.
+-moving from fully-funded to pay-as-you-go and when population growth is low.
+-moving from fully-funded to pay-as-you-go and when population growth is high.
+-moving from pay-as-you-go to fully-funded and when the government funds benefits for the current old generation.
+Moral hazard represents a problem for fully-funded social security because
+-the government is likely to never pay out promised benefits.
+-households invest in assets that are too safe.
+-population growth remains below the real interest rate.
++households would invest retirement savings in risky assets.
+-population growth exceeds the real interest rate.
+Pay-as-you-go social security works in situations where
+-Ricardian equivalence holds.
++the population growth rate exceeds the real interest rate.
+-the population growth rate is less than the real interest rate.
+-the government cannot commit.
+-fully funded social security is illegal.
+A fully funded social security program
+-solves the Ricardian equivalence problem.
+-works when the population growth rate exceeds the real interest rate.
+-redistributes income between generations.
++is forced savings, but can work if the government cannot commit to bailing out destitute retirees.
+-is always better than a pay-as-you-go system.
